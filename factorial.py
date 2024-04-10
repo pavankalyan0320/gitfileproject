@@ -1,4 +1,4 @@
-i=eval(input())
+i=5
 fact=1
 for q in range(1,i):
     fact=fact*q
